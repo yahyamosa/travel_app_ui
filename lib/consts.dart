@@ -118,3 +118,6 @@ const hotels = [
     'price': '195'
   }
 ];
+
+
+
